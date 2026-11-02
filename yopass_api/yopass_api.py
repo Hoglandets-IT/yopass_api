@@ -134,7 +134,7 @@ class Yopass:
         }
         try:
             response = requests.post(
-                urljoin(self._api, "/secret"),
+                urljoin(self._api, "/create/secret"),
                 data=payload,
                 headers=headers,
                 timeout=self.timeout,
