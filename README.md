@@ -5,11 +5,6 @@ This is a fork of the the project made [Sergey Ilyashevich](https://github.com/s
 This is a module to work with a (the) [Yopass](https://github.com/jhaals/yopass) backend created by [Johan Haals](https://github.com/jhaals).
 This module will allow you to use Python and self-hosted Yopass in automation projects.
 
-## Installing
-
-```py
-pip install yopass_api
-```
 
 ## Basic Example
 
