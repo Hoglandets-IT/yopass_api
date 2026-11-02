@@ -1,7 +1,6 @@
 # yopass_api
 
-[![codecov](https://codecov.io/github/silyashevich/yopass_api/branch/main/graph/badge.svg?token=YDY235VL6Q)](https://codecov.io/github/silyashevich/yopass_api)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/yopass_api)
+This is a fork of the the project made [Sergey Ilyashevich](https://github.com/silyashevich)
 
 This is a module to work with a (the) [Yopass](https://github.com/jhaals/yopass) backend created by [Johan Haals](https://github.com/jhaals).
 This module will allow you to use Python and self-hosted Yopass in automation projects.
