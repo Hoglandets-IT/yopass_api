@@ -1,6 +1,6 @@
 # yopass_api
 
-This is a fork of the the project made [Sergey Ilyashevich](https://github.com/silyashevich)
+This is a fork of the the project made [Sergey Ilyashevich](https://github.com/silyashevich), only compatible with Yopass v13.0.0 or later.
 
 This is a module to work with a (the) [Yopass](https://github.com/jhaals/yopass) backend created by [Johan Haals](https://github.com/jhaals).
 This module will allow you to use Python and self-hosted Yopass in automation projects.
