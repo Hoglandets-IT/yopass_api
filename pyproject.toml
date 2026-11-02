@@ -1,9 +1,9 @@
 [project]
 name = "yopass-api"
-version = "0.0.8"
+version = "0.0.9"
 description = "This module will allow you to use Python and Yopass in automation projects"
 authors = [{ name = "Sergey Ilyashevich", email = "silyashevich@gmail.com" }]
-requires-python = ">=3.7,<4"
+requires-python = ">=3.7,<= 3.12"
 readme = "README.md"
 license = "MIT"
 maintainers = [{ name = "Sergey Ilyashevich", email = "silyashevich@gmail.com" }]
